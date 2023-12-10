@@ -1,0 +1,29 @@
+{
+  "name": "KacoSwap Default List",
+  "timestamp": "2021-08-13T07:15:47.764Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": ["KAC", "default"],
+  "tokens": [
+    {
+      "name": "Kaco Token",
+      "symbol": "KAC",
+      "address": "0x8f27Fb74102fFdc72D2Be2b16ef28cD267379aB6",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xf96429A7aE52dA7d07E60BE95A3ece8B042016fB.svg"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    }
+  ]
+}
